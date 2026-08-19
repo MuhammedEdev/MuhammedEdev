@@ -1,14 +1,11 @@
 ### Hi 👋, I'm Muhammed Elhaci!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&height=40&lines=Frontend+Developer+%26+Full-Stack+Aspirant;Writing+Clean+Code+%26+Building+Apps;Exploring+Cybersecurity+%26+Linux" alt="Typing SVG" />
-</p>
+#### 🚀 Frontend Developer & Full-Stack Aspirant
 
 * 🔭 I’m currently studying **Frontend Web Development** at Gaziantep University (GAÜN).
 * 💼 I started with a strong foundation through my **high school frontend internship** and my **business opening (mastery) certificate**.
 * 🌱 I’m currently exploring **Next.js, React, Node.js, and SQL**, scaling up from frontend expertise to full-stack development.
-* 🎯 My core focus is building high-performance, modern, and user-centric web applications with clean architecture.
-* ⚡ Fun fact: Passionate about clean code, UI/UX design workflows, and exploring cybersecurity basics in my free time.
+* ⚡ Fun fact: Passionate about clean code, modern UI/UX design, and exploring cybersecurity basics.
 
 ---
 
@@ -35,19 +32,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
 </p>
 
 ---
 
-### 💡 Philosophy & Workflow
+### Muhammed Elhaci's GitHub Stats
 
-* **Clean Code & Scalability:** Writing maintainable, readable code structures that can easily scale from frontend to backend.
-* **Modern UI/UX Integration:** Turning creative designs into pixel-perfect, responsive, and fluid web interfaces.
-* **Continuous Learning:** Constantly adapting to new web standards, security practices, and full-stack methodologies.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedEdev&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
