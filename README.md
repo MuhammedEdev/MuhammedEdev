@@ -1,11 +1,11 @@
 <div align="center">
 
-# Muhammed Elhaci
-### **Frontend Developer & Full-Stack Aspirant**
+# 🚀 Muhammed Elhaci
+### <ins>Frontend Developer & Full-Stack Aspirant</ins>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammededev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuhammedEdev)
-[![GAÜN](https://img.shields.io/badge/GAÜN-Ön_Yüz_Yazılım-0284C7?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/MuhammedEdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammededev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammedEdev)
+[![GAÜN](https://img.shields.io/badge/GAÜN-Ön_Yüz_Yazılım-0284C7?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/MuhammedEdev)
 
 </div>
 
@@ -43,5 +43,11 @@ Gaziantep Üniversitesi (GAÜN) **Ön Yüz Yazılım Geliştirme** öğrencisiyi
 ---
 
 <div align="center">
-  <sub>Designed with precision & clean code principles.</sub>
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=MuhammedEdev.MuhammedEdev&label=PROFILE%20VIEWS&countColor=%230284C7&style=flat-square)
+
+</div>
+
+<div align="center">
+  <sub>⚡ Designed with precision & clean code principles.</sub>
 </div>
