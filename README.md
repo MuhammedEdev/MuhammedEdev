@@ -1,53 +1,55 @@
-<div align="center">
+# 👋 Hi there, I'm Muhammed Elhaci!
 
-# 🚀 Muhammed Elhaci
-### <ins>Frontend Developer & Full-Stack Aspirant</ins>
+### 🚀 Frontend Developer & Full-Stack Aspirant
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Gelişime_Açık-2EA043?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/GAÜN-Ön_Yüz_Yazılım_Geliştirme-0366D6?style=flat-square&logo=codeforces" alt="GAÜN" />
+  <img src="https://img.shields.io/badge/Ustalık_Belgesi-İş_Yeri_Açma-D73A49?style=flat-square&logo=certificate" alt="Certificate" />
+</p>
+
+---
+
+### 💻 Hakkımda
+
+*   Gaziantep Üniversitesi (GAÜN) **Ön Yüz Yazılım Geliştirme** bölümünde eğitim alıyorum.
+*   Lise dönemimde **Frontend Developer** olarak staj yaptım; ustalık belgesi niteliğindeki **"İş Yeri Açma Belgesi"** ile sektöre güçlü ve disiplinli bir temel ile adım attım.
+*   Frontend alanındaki mevcut uzmanlığımı ve estetik anlayışımı, modern teknolojilerle (React, Next.js, Tailwind) pekiştirirken, Node.js ve SQL ile full-stack ekosistemine yükseliyorum.
+*   **Temiz Kod (Clean Code)** ve sürdürülebilir mimari prensiplerini benimsiyorum.
+
+---
+
+### 🛠️ Yetenekler & Teknoloji Yığını
+
+*   **Frontend:** `React.js`, `Next.js`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Responsive Tasarım`
+*   **Backend & DB:** `Node.js`, `SQL`, `Firebase`
+*   **Araçlar & Versiyon Kontrolü:** `Git`, `GitHub`, `Canva`
+*   **Siber Güvenlik Temelleri:** `Linux`, `Ağ Güvenliği`, `Sızma Testi Temelleri`
+
+---
+
+### 📊 GitHub İstatistikleri & Dil Dağılımı
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammedEdev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="MuhammedEdev's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedEdev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="MuhammedEdev's Top Languages" />
+</div>
+
+---
+
+### 🔗 Bağlantılar & İletişim
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammededev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammedEdev)
-[![GAÜN](https://img.shields.io/badge/GAÜN-Ön_Yüz_Yazılım-0284C7?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/MuhammedEdev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MuhammedEdev) <!-- Eğer Twitter kullanıyorsan linki buraya ekle -->
 
 </div>
 
 ---
 
-### ⚡ Hakkımda
-
-Gaziantep Üniversitesi (GAÜN) **Ön Yüz Yazılım Geliştirme** öğrencisiyim. Lise dönemimde gerçekleştirdiğim staj programı ve ustalık belgesi niteliği taşıyan **iş yeri açma belgem** ile sektöre güçlü, disiplinli bir temelle adım attım. Frontend alanındaki uzmanlığımı modern teknolojilerle pekiştirirken, Node.js ve SQL ekosistemiyle full-stack hedefine doğru kararlılıkla yükseliyorum.
-
----
-
-### 🛠️ Teknoloji Yığını
-
-* **Frontend:** `React`, `Next.js`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Responsive Design`
-* **Backend & DB:** `Node.js`, `SQL`, `Firebase`
-* **Araçlar & Sürüm:** `Git`, `GitHub`, `Canva`
-* **Sistem & Temel:** `Linux İşletim Sistemleri`, `Ağ Temelleri`, `Sızma Testi Temelleri`
-
----
-
-### 🚀 Deneyim & Geçmiş
-
-* **Staj:** Lise eğitimim sürecinde aktif olarak *frontend developer* stajı yaptım, modern web arayüzleri geliştirdim.
-* **Belgeler:** Lise diploması ile birlikte verilen ve ustalık belgesi statüsünde olan **iş yeri açma belgesine** sahibim.
-* **Eğitim:** GAÜN Ön Yüz Yazılım Geliştirme bölümünde akademik ve pratik olarak kendimi sürekli geliştiriyorum.
-
----
-
-### 🎯 Odak & Vizyon
-
-* **Clean Code:** Sürdürülebilir, okunabilir ve endüstri standartlarına tam uygun mimariler kurmak.
-* **UI/UX:** Kullanıcı deneyimini en üst düzeye çıkaran, estetik ve akıcı arayüzler tasarlamak.
-* **Full-Stack Dönüşüm:** Frontend'deki mevcut gücümü backend teknolojileriyle birleştirerek uçtan uca projeler üretmek.
-
----
-
-<div align="center">
-
-![Visitors](https://api.visitorbadge.io/api/combined?path=MuhammedEdev.MuhammedEdev&label=PROFILE%20VIEWS&countColor=%230284C7&style=flat-square)
-
-</div>
-
-<div align="center">
-  <sub>⚡ Designed with precision & clean code principles.</sub>
-</div>
+### 🎯 Gelecek Hedeflerim
+*   Node.js ve veritabanı konularındaki yetkinliklerimi derinleştirerek **tam kapsamlı bir Full-Stack Developer** olmak.
+*   Modern mimariler (örneğin Mikroservisler) ve bulut teknolojileri üzerine pratik yapmak.
+*   Siber güvenlik alanındaki hobi ve temellerimi, web güvenliği perspektifinde ilerletmek.
