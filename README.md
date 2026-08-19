@@ -47,5 +47,11 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/code-time.gif" width="100%" alt="Coding Animation" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%" />
 </p>
