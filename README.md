@@ -1,6 +1,8 @@
 ### Hi 👋, I'm Muhammed Elhaci!
 
-#### 🚀 Frontend Developer & Full-Stack Aspirant
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=false&vCenter=true&width=500&height=40&lines=Frontend+Developer+%26+Full-Stack+Aspirant;Writing+Clean+Code+%26+Building+Apps;Exploring+Cybersecurity+%26+Linux" alt="Typing SVG" />
+</p>
 
 * 🔭 I’m currently studying **Frontend Web Development** at Gaziantep University (GAÜN).
 * 💼 I started with a strong foundation through my **high school frontend internship** and my **business opening (mastery) certificate**.
@@ -43,12 +45,6 @@
 * **Clean Code & Scalability:** Writing maintainable, readable code structures that can easily scale from frontend to backend.
 * **Modern UI/UX Integration:** Turning creative designs into pixel-perfect, responsive, and fluid web interfaces.
 * **Continuous Learning:** Constantly adapting to new web standards, security practices, and full-stack methodologies.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/code-time.gif" width="100%" alt="Coding Animation" />
-</p>
 
 ---
 
