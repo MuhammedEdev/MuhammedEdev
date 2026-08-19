@@ -1,37 +1,47 @@
+<div align="center">
+
 # Muhammed Elhaci
+### **Frontend Developer & Full-Stack Aspirant**
 
-### Frontend Developer & Full-Stack Aspirant
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammededev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuhammedEdev)
+[![GAÜN](https://img.shields.io/badge/GAÜN-Ön_Yüz_Yazılım-0284C7?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/MuhammedEdev)
 
-> Gaziantep Üniversitesi (GAÜN) Ön Yüz Yazılım Geliştirme öğrencisiyim. Lise dönemimde gerçekleştirdiğim staj programı ve ustalık belgesi niteliği taşıyan iş yeri açma belgem ile sektöre güçlü, disiplinli bir temelle adım attım. Frontend alanındaki uzmanlığımı modern teknolojilerle pekiştirirken, Node.js ve SQL ekosistemiyle full-stack hedefine doğru kararlılıkla yükseliyorum.
-
----
-
-### 🛠️ Teknolojiler & Yetkinlikler
-
-* **Frontend:** React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Tasarım
-* **Backend & Database:** Node.js, SQL, Firebase
-* **Araçlar & Versiyon:** Git, GitHub, Canva
-* **Sistem & Temeller:** Linux İşletim Sistemleri, Ağ Temelleri, Sızma Testi Temelleri
+</div>
 
 ---
 
-### 💼 Deneyim & Geçmiş
+### ⚡ Hakkımda
 
-* **Ön Yüz Geliştirme Stajı:** Lise dönemimde aktif olarak staj yapıp modern web arayüzleri ve responsive sayfalar geliştirdim.
-* **Belgeler & Yetkinlikler:** Lise diploması ve ustalık belgesi statüsündeki iş yeri açma belgesine sahibim.
-* **Eğitim:** GAÜN Ön yüz Yazılım Geliştirme bölümünde akademik ve pratik olarak kendimi geliştirmeye devam ediyorum.
+Gaziantep Üniversitesi (GAÜN) **Ön Yüz Yazılım Geliştirme** öğrencisiyim. Lise dönemimde gerçekleştirdiğim staj programı ve ustalık belgesi niteliği taşıyan **iş yeri açma belgem** ile sektöre güçlü, disiplinli bir temelle adım attım. Frontend alanındaki uzmanlığımı modern teknolojilerle pekiştirirken, Node.js ve SQL ekosistemiyle full-stack hedefine doğru kararlılıkla yükseliyorum.
 
 ---
 
-### 🎯 Odaklanılan Alanlar ve Hedefler
+### 🛠️ Teknoloji Yığını
 
-* **Temiz Kod (Clean Code):** Sürdürülebilir, okunabilir ve endüstri standartlarına uygun kod tabanları oluşturmak.
-* **Performans & UX:** Kullanıcı odaklı, estetik ve akıcı web deneyimleri tasarlamak.
-* **Full-Stack Dönüşüm:** Frontend'deki güçlü altyapımı backend teknolojileriyle birleştirerek uçtan uca projeler üretmek.
+* **Frontend:** `React`, `Next.js`, `JavaScript (ES6+)`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap`, `Responsive Design`
+* **Backend & DB:** `Node.js`, `SQL`, `Firebase`
+* **Araçlar & Sürüm:** `Git`, `GitHub`, `Canva`
+* **Sistem & Temel:** `Linux İşletim Sistemleri`, `Ağ Temelleri`, `Sızma Testi Temelleri`
 
 ---
 
-### 🌐 İletişim & Profil
+### 🚀 Deneyim & Geçmiş
 
-* **LinkedIn:** [Muhammed Elhaci](https://www.linkedin.com/in/muhammededev/)
-* **GitHub:** [@MuhammedEdev](https://github.com/MuhammedEdev)
+* **Staj:** Lise eğitimim sürecinde aktif olarak *frontend developer* stajı yaptım, modern web arayüzleri geliştirdim.
+* **Belgeler:** Lise diploması ile birlikte verilen ve ustalık belgesi statüsünde olan **iş yeri açma belgesine** sahibim.
+* **Eğitim:** GAÜN Ön Yüz Yazılım Geliştirme bölümünde akademik ve pratik olarak kendimi sürekli geliştiriyorum.
+
+---
+
+### 🎯 Odak & Vizyon
+
+* **Clean Code:** Sürdürülebilir, okunabilir ve endüstri standartlarına tam uygun mimariler kurmak.
+* **UI/UX:** Kullanıcı deneyimini en üst düzeye çıkaran, estetik ve akıcı arayüzler tasarlamak.
+* **Full-Stack Dönüşüm:** Frontend'deki mevcut gücümü backend teknolojileriyle birleştirerek uçtan uca projeler üretmek.
+
+---
+
+<div align="center">
+  <sub>Designed with precision & clean code principles.</sub>
+</div>
